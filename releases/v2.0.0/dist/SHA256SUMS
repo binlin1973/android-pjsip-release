@@ -1,7 +1,7 @@
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./SHA256SUMS
-5ad54009050f50874e01929166e8834086a95ae92f9591e725897e34880e8379  ./apk/debug/app-debug.apk
-ad44783d7681387866eecb4684bda4bcbd54234ca837cb485acc5ed6ad63aa78  ./apk/release/app-release-unsigned.apk
+b6baa1538d0a182b066d2dcf860a15e1f3585e0d61de1446cb441c96d4b28a41  ./apk/debug/app-debug.apk
+70c08058c0f7621c860b2fc4e0e968971fc07f0919ad36c5dfa5c24626734673  ./apk/release/app-release-unsigned.apk
 28e7a3a306d7fc222c62abe08741cfcba38c3f336216c4563726bf985ae3cfd6  ./jni/debug/arm64-v8a/libc++_shared.so
-59aefb82e624bac429b420f92f94ecd9d1ecb7c219dff3ffa5a90f5a421cdf99  ./jni/debug/arm64-v8a/libsip_jni.so
+bdf09689b33f22e871d35dbef7af9ea8ba41a8202a96d9d59b23092bcf322495  ./jni/debug/arm64-v8a/libsip_jni.so
 28e7a3a306d7fc222c62abe08741cfcba38c3f336216c4563726bf985ae3cfd6  ./jni/release/arm64-v8a/libc++_shared.so
-59aefb82e624bac429b420f92f94ecd9d1ecb7c219dff3ffa5a90f5a421cdf99  ./jni/release/arm64-v8a/libsip_jni.so
+bdf09689b33f22e871d35dbef7af9ea8ba41a8202a96d9d59b23092bcf322495  ./jni/release/arm64-v8a/libsip_jni.so
