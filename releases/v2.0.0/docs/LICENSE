@@ -1,0 +1,25 @@
+Copyright (c) 2025 Bin Lin
+
+All rights reserved.
+
+This repository contains:
+- Proprietary JNI code and Android integration scripts (Bin Lin)
+- Prebuilt open-source components (PJSIP, cURL)
+
+## 1. Proprietary Components
+All source files under `pjsip_android/` and the JNI layer are proprietary and
+may not be redistributed, modified, or reverse-engineered without written authorization.
+
+## 2. Open-Source Dependencies
+The binaries under `third_party/pjproject/` and `third_party/curl/` are compiled
+from open-source projects and remain governed by their respective original licenses:
+
+- **PJSIP**: GPL v2 or Commercial License (see https://www.pjsip.org/licensing.htm)
+- **cURL**: MIT License (see https://curl.se/docs/copyright.html)
+
+## 3. Distribution
+Only the prebuilt **Demo APK** and accompanying documentation (README, manuals)
+may be freely distributed for evaluation and testing purposes.
+
+No part of the proprietary JNI source code is open-sourced under this repository.
+
