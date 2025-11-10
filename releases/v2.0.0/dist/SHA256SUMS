@@ -1,6 +1,6 @@
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./SHA256SUMS
-fd0c58e61642373fb227bdc17ff8260e0f42b41c008aaf921f6b6c9b46f6d37d  ./apk/debug/app-debug.apk
-53107eb8395699ad0c0bca74c43094b94569d9c676822e1188cf01b5f5e377c9  ./apk/release/app-release-unsigned.apk
+0454fb5ca2dc1d6c196e8a4c7872ce58d6a11b24bfba324c033587bd513cb298  ./apk/debug/app-debug.apk
+12dab0fe505500cb557aa9f9bf105b6b16ba3a4c20a18942f9e0ad30626ce30b  ./apk/release/app-release-unsigned.apk
 28e7a3a306d7fc222c62abe08741cfcba38c3f336216c4563726bf985ae3cfd6  ./jni/debug/arm64-v8a/libc++_shared.so
 8042951a13b0dc2c690307a92d291527751fd418a5a9332067829e679e596aa9  ./jni/debug/arm64-v8a/libsip_jni.so
 28e7a3a306d7fc222c62abe08741cfcba38c3f336216c4563726bf985ae3cfd6  ./jni/release/arm64-v8a/libc++_shared.so
